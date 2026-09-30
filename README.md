@@ -4,11 +4,9 @@ Software engineer focused on C#, .NET, Azure, distributed systems, and AI applic
 
 Currently building:
 
-- Cosmo - a model-agnostic .NET AI orchestration layer
-- My portfolio site - lucassproat.com
+- [Cosmo](https://github.com/lsproat/Cosmo) - a model-agnostic .NET AI orchestration layer for local and cloud LLMs
+- [Portfolio Website](https://lucassproat.com) - my personal software engineering portfolio
 
-Core technologies:
-C# · .NET · Azure · Microservices · CI/CD · SQL
+**Core technologies:** C# · .NET · Azure · Microservices · CI/CD · SQL
 
-Current interests:
-LLM orchestration · Local AI · Cloud/DevOps
+**Current interests:** LLM orchestration · Local AI · Cloud Infrastructure
